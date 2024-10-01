@@ -1,0 +1,5 @@
+{
+    "server_address": "localhost:8088",
+    "boss_name": "Boss",
+    "secretaries": ["Secretary1", "Secretary2", "debadmin"]
+  }
